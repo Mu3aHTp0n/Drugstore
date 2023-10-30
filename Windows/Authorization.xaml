@@ -27,7 +27,7 @@
                 <Label Content="Пароль" 
                        Foreground="#698AFF"
                        FontSize="20"/>
-                <Label Content=" "/>
+                <Label Content=""/>
             </StackPanel>
             <StackPanel Width="190">
                 <TextBox Width="auto" 
