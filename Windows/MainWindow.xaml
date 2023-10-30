@@ -7,8 +7,11 @@
         mc:Ignorable="d"
         Title="Авторизация" MinHeight="450" MinWidth="800">
     <Grid>
-        <StackPanel>
-            
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Width="300">
+            <TextBox/>
+            <PasswordBox/>
         </StackPanel>
     </Grid>
 </Window>
